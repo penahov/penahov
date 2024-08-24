@@ -1,4 +1,4 @@
-
+![Header](https://github.com/penahov/penahov/blob/main/header.jpg)
 <h1 align="center">Hi 👋, I'm Fazil Penahov</h1>
 <h3 align="center">I turn ideas into empires with code.</h3>
 
