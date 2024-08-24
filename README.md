@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F1410877-programming-and-coding-futuristic-banner&psig=AOvVaw12379DoPqxkBSIQVZ3-vh0&ust=1724628957158000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCyhNbljogDFQAAAAAdAAAAABAn)
+
 <h1 align="center">Hi 👋, I'm Fazil Penahov</h1>
 <h3 align="center">I turn ideas into empires with code.</h3>
 
