@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **penahov.work@gmail.com**
 
-- ⚡ Fun fact **I don't just code, I innovate.**
+- ⚡ Fun fact: **I don't just code, I innovate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
